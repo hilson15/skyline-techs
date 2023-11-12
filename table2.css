@@ -1,0 +1,35 @@
+.container{
+    max-width: 90%;
+    margin: auto;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+caption{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+table{
+    max-width: 90%;
+    margin: auto;
+}
+table,tr, td, th{
+    padding: 10px 25px;
+    border-bottom: 1px solid;
+    border-collapse: collapse;
+}
+th{
+   text-align: left; 
+   background-color: dodgerblue;
+    color: white;
+    /* border-collapse: collapse; */
+}
+tr:nth-child(odd){
+    background-color: rgb(236, 234, 234);
+}
+tr:hover{
+    background-color:darkgrey;
+}
+
+
+
