@@ -1,0 +1,52 @@
+.container{
+    max-width: 90%;
+    margin: auto;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+caption{
+    font-size: 30px;
+    font-weight: bold;
+}
+table{
+    max-width: 90%;
+    margin: auto;
+}
+table, tr, td, th{
+    padding: 10px 25px;
+    border-bottom: 1px solid;
+}
+th{
+   text-align: left; 
+   background-color: dodgerblue;
+    border: 0px solid dodgerblue;
+    color: white;
+}
+.p{
+    background-color: green;
+    color: white;
+    font-size: 10px;
+    font-weight: bolder;
+    padding: 5px;
+    border-radius: 50%;
+}
+.f{
+    background-color: red;
+    color: white;
+    font-size: 10px;
+    font-weight: bolder;
+    padding: 5px;
+    border-radius: 50%;
+}
+.vg{
+    background-color: green;
+    color: white;
+}
+.fair{
+    background-color: rgb(224, 242, 60);
+    color: white;
+}
+.vp{
+    background-color: red;
+    color: white;
+}
